@@ -16,7 +16,7 @@
   which are called when their values are changed from the Dashboard.
   These functions are generated with the Thing and added at the end of this sketch.
 */
-
+//start of code
 #include "thingProperties.h"
 #include "DHT.h"
 const int sensor_pin = A0;
